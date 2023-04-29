@@ -1,0 +1,22 @@
+main {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+ul {
+  background-color: #eee;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  padding: 10px;
+  list-style: none;
+}
+
+li {
+  border: 1px solid #999;
+  border-radius: 8px;
+  padding: 10px;
+  background-color: #fff;
+}
